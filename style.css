@@ -323,6 +323,8 @@ span{
     padding: 9px;
     border-radius: 0.8rem;
 }
+
+  
 @media (max-width: 1600px){
     header{
         padding: 14px 4%;

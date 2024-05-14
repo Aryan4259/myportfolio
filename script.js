@@ -29,3 +29,4 @@ sr.reveal('.about-text h2, .text-center, .right-contact h2',{origin: 'top'});
 sr.reveal('.left-contact',{origin: 'left'});
 sr.reveal('.right-contact',{origin: 'right'});
 sr.reveal('.end-section',{origin: 'top'});
+
